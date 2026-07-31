@@ -75,7 +75,7 @@ Desarrolla una interfaz web modular utilizando TypeScript y React. El código de
 - No elimines ni sobrescribas archivos existentes sin confirmación.
 
 
-## Challenge de validación
+## 6. Challenge de validación
 
 voy a revisar estos puntos para estar segura de que todo quedó bien:
 
